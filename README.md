@@ -5,10 +5,10 @@ Python AI assignment that makes use of heuristics in order to optimize the brute
 Python 3.6+
 
 ## Usage
-python3 CrosswordSolver.py [wordbank] [puzzle_choice]
+python3 crossword-solver-driver.py [wordbank] [puzzle_choice]
 
 ## Run/Execute
 ```bash
-python3 CrosswordSolver.py words.txt 1
+python3 crossword-solver-driver.py words.txt 1
 ```
 
